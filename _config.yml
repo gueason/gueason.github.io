@@ -104,3 +104,8 @@ deploy:
   type: git
   repo: git@github.com:gujishi/gujishi.github.io.git
   branch: main
+
+math:
+  engine: "mathjax"
+  mathjax:
+    src: custom_mathjax_source
